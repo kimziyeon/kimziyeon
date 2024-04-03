@@ -1,5 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=kim%20ziyeon&fontColor=ff85af&fontSize=50&animation=twinkling)
 
+<h3 align="center">🏳‍🌈My stack</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html"/>
+<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+</div>
+
+
+
+
 <!--
 **kimziyeon/kimziyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...

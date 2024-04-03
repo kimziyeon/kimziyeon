@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=kim%20ziyeon&fontColor=d6ace6&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=kim%20ziyeon&fontColor=gradient&customColorList=0,2,2,5,30&fontSize=50&animation=twinkling)
 
 <!--
 **kimziyeon/kimziyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

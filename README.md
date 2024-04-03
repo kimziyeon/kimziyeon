@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=kim%20ziyeon&fontColor=ff85af&fontSize=50&animation=twinkling)
 
-<h3 align="center">🏳‍🌈My stack</h3>
+<h3 align="center">💎 My stack 💎</h3>
 
 
 <div align="center">

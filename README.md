@@ -2,8 +2,7 @@
 
 SKILL
 <div>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule render&fontSize=90" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=random&height=300&section=header&text=kim ziyeon%20render&fontSize=90" />
 
 <!--
 **kimziyeon/kimziyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

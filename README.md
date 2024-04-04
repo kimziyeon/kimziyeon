@@ -1,11 +1,14 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=kim%20ziyeon&fontColor=ff85af&fontSize=50&animation=twinkling)
+-->
 
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbcuM5H%2FbtqUwybi6K7%2FzmBRfokEPatct8XNXfHKCK%2Fimg.jpg"/>
 <p></p>
 <p align="center">
   Hello 👀, My name is jiyeon kim
 </p>
 <p></p>
-<h3 align="center">💎 Technology Stack 💎</h3>
+<h3 align="center">🥕 Technology Stack 🥕</h3>
 
 
 <div align="center">
